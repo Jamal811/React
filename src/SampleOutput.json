@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "News Desk",
+            "title": "Parliament Updates: 7 TMC Lawmakers Among 19 MPs Suspended from Rajya Sabha for This Week; Upper House Adjo - News18",
+            "description": "Parliament Monsoon Session Updates, July 26, 2022: TMC MPs Sushmita Dev, Santanu Sen and Dola Sen among other Rajya Sabha MPs suspended for remaining part of the week for \"misconduct\" by entering well of the House and sloganeering",
+            "url": "https://www.news18.com/news/politics/parliament-monsoon-session-updates-july-26-2022-lok-sabha-rajya-sabha-price-rise-gst-tribal-pilots-5625019.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/07/rajya-sabha-ruckus-165882224416x9.png",
+            "publishedAt": "2022-07-26T10:17:00Z",
+            "content": "Parliament Monsoon Session Updates, July 26, 2022: Proceedings in both Lok Sabha and Rajya Sabha resumed today, a day after sixth consecutive day of the Monsoon session was marred by Opposition prote… [+4877 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deccan Herald"
+            },
+            "author": "Mrityunjay Bose",
+            "title": "'Made in India' RT-PCR monkeypox detection kit launched by Genes2Me - Deccan Herald",
+            "description": "One of India’s leading in vitro diagnostics (IVD) manufacturers, Genes2Me Pvt Ltd, has come out with a Real-Time PCR-based kit for quick detection of the monkeypox virus with a fast turnaround result time of less than 50 minutes.  This kit is available in bot…",
+            "url": "https://www.deccanherald.com/national/made-in-india-rt-pcr-monkeypox-detection-kit-launched-by-genes2me-1130247.html",
+            "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/07/26/monkeypox-rtpcr-1130247-1658830279.jpg",
+            "publishedAt": "2022-07-26T10:11:19Z",
+            "content": "One of Indias leading in vitro diagnostics (IVD) manufacturers, Genes2Me Pvt Ltd, has come out with a Real-Time PCR-based kit for quick detection of the monkeypox virus with a fast turnaround result … [+2016 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "19 Rajya Sabha MPs Suspended Day After Action Against 4 Lok Sabha MPs - NDTV",
+            "description": "Nineteen opposition MPs have been suspended from Rajya Sabha for the rest of the week for disrupting the session today. The latest suspension comes a day after four Congress MPs in Lok Sabha were suspended for the entire monsoon session.",
+            "url": "https://www.ndtv.com/india-news/10-opposition-rajya-sabha-mps-suspended-for-rest-of-the-week-for-disruptions-day-after-4-congress-lok-sabha-mps-suspension-3194544",
+            "urlToImage": "https://c.ndtvimg.com/2019-10/63dpnans_parliament-building-pti-_625x300_25_October_19.jpg",
+            "publishedAt": "2022-07-26T10:11:00Z",
+            "content": "Nineteen opposition MPs have been suspended from Rajya Sabha\r\nNew Delhi: Nineteen opposition MPs have been suspended from Rajya Sabha for the rest of the week for disrupting the session today.\r\n\"The … [+2449 chars]"
+        },
+        {
+            "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+            },
+            "author": "Jason Samenow, Marisa Iati",
+            "title": "Historic St. Louis flash flooding strands residents, closes roads - The Washington Post",
+            "description": "The city had received more than 8 inches of rain as of 7 a.m. local time, the most ever recorded there in a calendar day.",
+            "url": "https://www.washingtonpost.com/climate-environment/2022/07/26/st-louis-flooding-historic-record/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BES7NVAM5QI63CHIYWG4HW5O4I.jpg&w=1440",
+            "publishedAt": "2022-07-26T16:10:49Z",
+            "content": "Comment on this story\r\nTorrential downpours sparked flash flooding in St. Louis and surrounding areas on Tuesday, stranding residents in their cars and homes as the amount of rain shattered a record … [+3580 chars]"
+            }
+        
+    ]
+}
